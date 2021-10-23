@@ -1,0 +1,8 @@
+C:\Users\Compumax\source\repos\Taller_Automotriz\Taller_Automotriz\obj\Debug\Taller_Automotriz.csprojAssemblyReference.cache
+C:\Users\Compumax\source\repos\Taller_Automotriz\Taller_Automotriz\obj\Debug\Taller_Automotriz.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\obj\Debug\Taller_Automotriz.csprojAssemblyReference.cache
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\bin\Debug\Taller_Automotriz.exe.config
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\bin\Debug\Taller_Automotriz.exe
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\bin\Debug\Taller_Automotriz.pdb
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\obj\Debug\Taller_Automotriz.exe
+C:\Users\juans\Downloads\Taller_Automotriz\Taller_Automotriz\Taller_Automotriz\obj\Debug\Taller_Automotriz.pdb
